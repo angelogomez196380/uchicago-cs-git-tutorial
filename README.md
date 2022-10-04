@@ -1,1 +1,1 @@
-Angelo Gomez angelogomez
+Angelo Gomez angelogomez UChicago git cs tutorial
